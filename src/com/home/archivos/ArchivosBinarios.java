@@ -6,5 +6,7 @@ public class ArchivosBinarios {
 
 	private File file;
 	
+	private String value;
+	
 	
 }
