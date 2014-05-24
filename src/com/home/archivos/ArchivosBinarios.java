@@ -11,5 +11,5 @@ public class ArchivosBinarios {
 	private String otrovalue;
 	
 	private String masValor;
-	
+	//otro cambio.
 }
