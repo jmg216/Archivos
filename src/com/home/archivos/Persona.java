@@ -2,6 +2,9 @@ package com.home.archivos;
 
 import java.io.Serializable;
 
+/**
+ * Persona
+ * */
 public class Persona implements Serializable {
 	
 	String nombre;
