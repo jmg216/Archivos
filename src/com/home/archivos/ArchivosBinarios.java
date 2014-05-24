@@ -8,5 +8,6 @@ public class ArchivosBinarios {
 	
 	private String value;
 	
+	private String otrovalue;
 	
 }
