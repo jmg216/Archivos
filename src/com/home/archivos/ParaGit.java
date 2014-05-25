@@ -6,7 +6,4 @@ public class ParaGit {
 	//mas cambios.
 	//mas cambios 2.
 	//mas cambios.
-	//branch1
-	//branch1
-	//branch1
 }
