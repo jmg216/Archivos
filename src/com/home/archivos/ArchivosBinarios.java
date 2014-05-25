@@ -11,13 +11,5 @@ public class ArchivosBinarios {
 	private String otrovalue;
 	
 	private String masValor;
-	//otro cambio.
-	//otro cambio mas.
-	//otro mas.
-	//branch1.
-	//branch1.
-	//branch1.
-	//mas branch1.
-	
-	//solo en master..
+	//en develo
 }
